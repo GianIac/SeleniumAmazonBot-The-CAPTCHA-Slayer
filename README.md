@@ -15,3 +15,10 @@ Features
 <li>Product Interaction: Finds and clicks on the specific product from the search results.</li>
 <li>Screenshot: Takes a screenshot of the product page for reference.</li>
 <li>Information Extraction: Extracts and saves the product description to a text file.</li>
+
+Technologies Used
+- Python 3
+- Selenium WebDriver
+- easyocr
+- PIL (Python Imaging Library)
+- numpy
