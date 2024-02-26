@@ -55,5 +55,17 @@ Run the following commands:
 Once all dependencies are installed you can run the script with the following command in your terminal or command prompt:
 <h6> >> python main.py</h6>
 
+# Notes
+If you prefer not to download all libraries locally, you can set up a virtual environment using either PyCharm or Visual Studio Code, depending on your preference.
+For PyCharm:
+Go to "File" > "New Project" to create a new project.
+Clone the desired repository into the project directory.
+Open "File" > "Settings" (or press CTRL+ALT+S) to access the settings.
+Navigate to "Project: [your project's name]" > "Python Interpreter".
+Click on the "+" symbol to add a new interpreter.
+From here, you can set up a new virtual environment and add the necessary libraries to your project by searching for and installing them through the provided graphical interface.
 
+<h3>ethics:</h3>
+Ok bro... I have to write this, bypassing the CAPTCHA is unethical, sites like Amazon offer APIs for developers!
+I created this script for educational purposes only. I hope Jeff Bezos doesn't hate me :) 
 
