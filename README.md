@@ -65,7 +65,7 @@ Navigate to "Project: [your project's name]" > "Python Interpreter".
 Click on the "+" symbol to add a new interpreter.
 From here, you can set up a new virtual environment and add the necessary libraries to your project by searching for and installing them through the provided graphical interface.
 
-<h3>ethics:</h3>
+<h3>Ethics:</h3>
 Ok bro... I have to write this, bypassing the CAPTCHA is unethical, sites like Amazon offer APIs for developers!
 I created this script for educational purposes only. I hope Jeff Bezos doesn't hate me :) 
 
