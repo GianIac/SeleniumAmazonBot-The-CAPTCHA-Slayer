@@ -55,7 +55,7 @@ Run the following commands:
 Once all dependencies are installed you can run the script with the following command in your terminal or command prompt:
 <h6> >> python main.py</h6>
 
-Execution video:
+CAPTCHA bypass --> Execution video:
 https://github.com/GianIac/SeleniumAmazonBot-The-CAPTCHA-Slayer/assets/80957309/7861e46b-f008-4d4c-b4d4-3607c242ee41
 
 
