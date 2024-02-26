@@ -52,7 +52,7 @@ Run the following commands:
   [NumPy Documentation] (https://numpy.org/)</li>
 <br>
 <h5>Running the Script</h5>
-Once all dependencies are installed and ChromeDriver is set up, you can run the script with the following command in your terminal or command prompt:
+Once all dependencies are installed you can run the script with the following command in your terminal or command prompt:
 <h6> >> python main.py</h6>
 
 
