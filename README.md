@@ -23,3 +23,37 @@ The script is designed for educational purposes to demonstrate the basics of Sel
 <li>easyocr</li>
 <li>PIL (Python Imaging Library)</li>
 <li>numpy</li>
+<br>
+
+![image](https://github.com/GianIac/SeleniumAmazonBot-The-CAPTCHA-Slayer/assets/80957309/22f1fb46-6d44-4544-9b59-6dda6c7f3efa)
+
+# Installation and Setup
+Before running the script, you need to install several dependencies. Make sure you have Python 3 installed on your system. You can download Python 3 from here:
+https://www.python.org/downloads/
+Install Dependencies
+Open your terminal or command prompt and install the required Python packages using pip, Python's package installer. 
+Run the following commands:
+<h6> >> pip install selenium</h6>
+<h6> >> pip install requests</h6>
+<h6> >> pip install easyocr</h6>
+<h6> >> pip install Pillow</h6>
+<h6> >> pip install numpy</h6>
+
+<h5>Libraries Used:</h5>
+<li>Selenium WebDriver: Automates web browser interaction from Python. 
+  [Selenium Documentation] (https://www.selenium.dev/documentation/)</li>
+<li>Requests: Simplifies making HTTP requests. 
+  [Requests Documentation] (https://pypi.org/project/requests/)</li>
+<li>easyocr: Performs Optical Character Recognition (OCR) to read text from images. 
+  [easyocr GitHub](https://github.com/JaidedAI/EasyOCR/tree/master) && [easyocr for py] https://pypi.org/project/easyocr/</li>
+<li>Pillow (PIL Fork): Python Imaging Library adds image processing capabilities. 
+  [Pillow Documentation] (https://pillow.readthedocs.io/en/stable/)</li>
+<li>NumPy: Adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions. 
+  [NumPy Documentation] (https://numpy.org/)</li>
+<br>
+<h5>Running the Script</h5>
+Once all dependencies are installed and ChromeDriver is set up, you can run the script with the following command in your terminal or command prompt:
+<h6> >> python main.py</h6>
+
+
+
