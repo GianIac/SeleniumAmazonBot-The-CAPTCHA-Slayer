@@ -37,7 +37,7 @@ class Amazon_Test(unittest.TestCase):
             1. Maximize the browser window
             2. Bypass Amazon noBot control (if you are a good boy, you can use the Amazon Developer Api)
             3. Click the "Reject All Cookies" button.
-            4. Enter a search query ("guanti in cotone").
+            4. Enter a search query 
             5. Submit the search.
             6. Find the specific product
             7. Click the product link.
