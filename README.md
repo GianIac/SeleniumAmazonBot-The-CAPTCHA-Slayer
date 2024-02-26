@@ -6,7 +6,7 @@ This is a simple python and selenium script/test for the beginners. It contain a
 # Overview 
 The script is designed for educational purposes to demonstrate the basics of Selenium for web automation and OCR (optical character recognition) technology for CAPTCHA bypass. Everything is designed to be simple and with few demands, so that it can become a starting point for creating a simple script and maybe defeating some damn CAPTCHA!!!
 
-Features
+<h5>Features</h5>
 <li>Website Navigation: Automatically navigates to the Amazon Italy website.</li>
 <li>Incognito Mode: Launches Chrome in incognito mode to ensure a clean session without cookies or cached data.</li>
 <li>CAPTCHA Bypass: Attempts to bypass Amazon's noBot control CAPTCHA up to 5 times using easyocr for the recognition.</li>
@@ -15,10 +15,11 @@ Features
 <li>Product Interaction: Finds and clicks on the specific product from the search results.</li>
 <li>Screenshot: Takes a screenshot of the product page for reference.</li>
 <li>Information Extraction: Extracts and saves the product description to a text file.</li>
+<p></p>
 
-Technologies Used
-- Python 3
-- Selenium WebDriver
-- easyocr
-- PIL (Python Imaging Library)
-- numpy
+<h5>Technologies Used</h5>
+<li>Python 3</li>
+<li>Selenium WebDriver</li>
+<li>easyocr</li>
+<li>PIL (Python Imaging Library)</li>
+<li>numpy</li>
