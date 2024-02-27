@@ -1,1 +1,6 @@
+pip install selenium
+pip install requests
+pip install easyocr
+pip install Pillow
+pip install numpy
 
