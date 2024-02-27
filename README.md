@@ -33,11 +33,7 @@ https://www.python.org/downloads/
 Install Dependencies
 Open your terminal or command prompt and install the required Python packages using pip, Python's package installer. 
 Run the following commands:
-<h6> >> pip install selenium</h6>
-<h6> >> pip install requests</h6>
-<h6> >> pip install easyocr</h6>
-<h6> >> pip install Pillow</h6>
-<h6> >> pip install numpy</h6>
+<h6> >> pip install -r requirements.txt</h6>
 
 <h5>Libraries Used:</h5>
 <li>Selenium WebDriver: Automates web browser interaction from Python. 
