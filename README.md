@@ -63,7 +63,7 @@ For PyCharm:
 Go to "File" > "New Project" to create a new project.
 Clone the desired repository into the project directory.
 Open "File" > "Settings" (or press CTRL+ALT+S) to access the settings.
-Navigate to "Project: [your project's name]" > "Python Interpreter".
+Navigate to "Project: [project's name]" > "Python Interpreter".
 Click on the "+" symbol to add a new interpreter.
 From here, you can set up a new virtual environment and add the necessary libraries to your project by searching for and installing them through the provided graphical interface.
 
