@@ -1,6 +1,5 @@
-selenium
-requests
-easyocr
-Pillow
-numpy
-
+requests~=2.31.0
+easyocr~=1.7.1
+numpy~=1.26.4
+pillow~=10.2.0
+selenium~=4.18.1
