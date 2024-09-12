@@ -25,8 +25,6 @@ The script is designed for educational purposes to demonstrate the basics of Sel
 <li>numpy</li>
 <br>
 
-![image](https://github.com/GianIac/SeleniumAmazonBot-The-CAPTCHA-Slayer/assets/80957309/22f1fb46-6d44-4544-9b59-6dda6c7f3efa)
-
 # Installation and Setup
 Before running the script, you need to install several dependencies. Make sure you have Python 3 installed on your system. You can download Python 3 from here:
 https://www.python.org/downloads/
